@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "role": "Frontend Developer",
+    "email": "aarav@example.com",
+    "status": "Available",
+    "updatedAt": "2026-11-11T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Priya Kumar",
+    "role": "Backend Developer",
+    "email": "priya@example.com",
+    "status": "Busy",
+    "updatedAt": "2026-11-11T09:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Verma",
+    "role": "UI/UX Designer",
+    "email": "rahul@example.com",
+    "status": "Away",
+    "updatedAt": "2026-11-11T09:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Meera Nair",
+    "role": "QA Engineer",
+    "email": "meera@example.com",
+    "status": "Available",
+    "updatedAt": "2026-11-11T09:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Karthik Raj",
+    "role": "DevOps Engineer",
+    "email": "karthik@example.com",
+    "status": "Busy",
+    "updatedAt": "2026-11-11T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Das",
+    "role": "Product Manager",
+    "email": "ananya@example.com",
+    "status": "Available",
+    "updatedAt": "2026-11-11T10:15:00.000Z"
+  },
+  {
+    "id": 1794410164242,
+    "name": "arun",
+    "role": "full stack developer",
+    "email": "arun@gmail.com",
+    "status": "Available",
+    "updatedAt": "2026-11-11T15:16:04.242Z"
+  }
+]
